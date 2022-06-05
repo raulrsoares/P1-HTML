@@ -5,4 +5,4 @@ Exemplo de Ancoramento entre páginas.:smiley:
 
  - OBS: O que foi utilizado como exemplo aqui é de referência a um curso da Udemy.:grin:
  
- - [Link](https://raulrsoares.github.io/P1-HTML/) para aplicação funcionando
+ - <a href="https://raulrsoares.github.io/P1-HTML/" target="_blank" rel="noreferrer">Link</a> para aplicação funcionando
